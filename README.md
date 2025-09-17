@@ -3,7 +3,7 @@ ITSC 4681 / ITCS 5010
 
 This repo holds demo files for the Generative AI class at UNC Charlotte, Fall 2025.
 
-Run `pip install requirements.txt` to install the required libraries
+Make a virtual environment and run `pip install requirements.txt` to install the required libraries
 
 
 A .env file is required with the following API keys: 
