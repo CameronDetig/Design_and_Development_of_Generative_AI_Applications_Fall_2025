@@ -12,4 +12,6 @@ OPENAI_API_KEY
 
 GROQ_API_KEY
 
-Some files used from https://github.com/NirDiamant/RAG_Techniques/tree/main
+Some files referenced from https://github.com/NirDiamant/RAG_Techniques/tree/main
+
+<img src="images/robot_typing.png" alt="Robot Typing" width="400">
