@@ -1,0 +1,10 @@
+langchain
+langchain-core
+langchain-openai 
+langchain-community
+faiss-cpu 
+futures 
+tqdm 
+python-dotenv
+numpy
+rank-bm25
